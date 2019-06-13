@@ -1,0 +1,10 @@
+
+\.lein-repl-history
+
+*.log
+
+target/
+
+guestbook_dev\.db
+
+\.rebel_readline_history
